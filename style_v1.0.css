@@ -1,0 +1,20 @@
+/* Aventro Digital Website - style.css (Version 1.0)
+   Saved as requested for versioning/memory purposes. */
+
+:root {
+    --primary-bg: linear-gradient(135deg, #232946 0%, #16161a 100%);
+    --secondary-bg: #232946;
+    --card-bg: #16161a;
+    --text-main: #fff;
+    --text-secondary: #a1a1aa;
+    --accent: #caac00bb; /* Changed to gold/yellow to match logo */
+    --header-bg: rgba(35, 41, 70, 0.95);
+    --footer-bg: #16161a;
+    --service-gradient: linear-gradient(45deg, #232946, #393e6e);
+    --feature-gradient: linear-gradient(135deg, #232946 0%, #393e6e 100%);
+    --shadow: 0 10px 40px rgba(0,0,0,0.4);
+}
+
+/* --- All styles below this line are copied from style.css as of version 1.0 --- */
+
+/* ...existing code... */
